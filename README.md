@@ -2,4 +2,4 @@
 Developed React-MongoDB
 
 
-https://mern-calendar-node-app.herokuapp.com/LoginScreen
+https://mern-calendar-node-app.herokuapp.com
